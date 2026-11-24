@@ -1,5 +1,7 @@
 # Dataset Description
 
+**Kaggle data:** [Deep Learning Lab 1 dataset](https://www.kaggle.com/competitions/deep-learning-lab-1-2025/data)
+
 The dataset for this competition (both train and test) was generated from a deep learning model trained on the **Smoker Status Prediction using Bio-Signals** dataset.
 
 Feature distributions are close to, but not exactly the same as, the original dataset. You may use the original dataset to:

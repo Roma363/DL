@@ -2,6 +2,8 @@
 
 In this lab, you will build and train a simple feedforward neural network (multilayer perceptron, MLP) using only NumPy. You will implement the forward pass, derive and code the backpropagation algorithm, and explore how different activation functions affect training. Finally, you will visualize the decision boundaries your models learn.
 
+**Kaggle task:** [Deep Learning Lab 1](https://www.kaggle.com/competitions/deep-learning-lab-1-2025/overview)
+
 ## Tasks
 
 - Plot and explore the dataset.
@@ -22,11 +24,6 @@ In this lab, you will build and train a simple feedforward neural network (multi
 - Matplotlib (for visualization)
 
 > Deep learning frameworks like PyTorch and TensorFlow, as well as scikit-learn models, are not allowed.
-
-## Timeline
-
-- **Start:** Sep 7, 2025
-- **Close:** Dec 31, 2025
 
 ## Evaluation
 
