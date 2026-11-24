@@ -25,11 +25,6 @@ In this lab, you will build and train a simple feedforward neural network (multi
 
 > Deep learning frameworks like PyTorch and TensorFlow, as well as scikit-learn models, are not allowed.
 
-## Timeline
-
-- **Start:** Sep 7, 2025
-- **Close:** Dec 31, 2025
-
 ## Evaluation
 
 Submissions are evaluated by **ROC AUC** between predicted probabilities and observed target labels.
